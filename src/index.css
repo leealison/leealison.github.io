@@ -48,7 +48,7 @@
       max-width: 400px;
       margin: auto;
       overflow: hidden;
-      cursor:
+      cursor: pointer;
     }
 }
 
@@ -78,7 +78,7 @@
         font-weight: bold;
         font-family: "Helvetica Neue";
         float:left;
-        width: 80%;
+        width: 100%;
     }
 
     .text1 {
@@ -105,7 +105,7 @@
 
       margin: auto;
       overflow: hidden;
-      cursor:
+      cursor: pointer;
     }
 
     .card {
@@ -115,6 +115,7 @@
 
 .nav {
     float: right;
+    padding: 2%;
 }
 
 .nav_item:hover {
@@ -137,7 +138,6 @@
   max-width: 400px;
   margin: auto;
   overflow: hidden;
-  cursor:
 }
 
 .content .content-overlay {
