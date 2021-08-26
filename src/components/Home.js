@@ -13,11 +13,11 @@ function Home() {
 
                 <div className='text'>
                     <h1 className='text1'>
-                        <span role="img" aria-label="wave">👋</span> Hi, I'm Alison.
+                        <span role="img" aria-label="wave">👻</span> Hi, I'm Alison.
                     </h1>
 
                     <h3 className='text2'>
-                        I'm a junior at Johns Hopkins University studying computer science.
+                        I'm a senior at Johns Hopkins University studying computer science.
                     </h3>
                     <br />
                     <a href="https://github.com/leealison">
