@@ -10,7 +10,7 @@ function Navigation() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto nav_item">
             <Nav.Link href="#projects" className="nav_item">Projects</Nav.Link>
-            <Nav.Link href="https://drive.google.com/file/d/1IBuC8Dji0bRyCAbbAMXIHOz_khTGBo6x/view?usp=sharing" className="nav_item"><span className="nav_item">Resume</span></Nav.Link>
+            <Nav.Link href="leealison.github.io/about/resume.pdf" target="_blank" type="application/pdf" className="nav_item"><span className="nav_item">Resume</span></Nav.Link>
           </Nav>
         </Navbar.Collapse>
         </Navbar>
