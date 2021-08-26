@@ -3,17 +3,17 @@
   "name": "Alison Lee",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/apple/285/ghost_1f47b.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "favicon-32x32.png",
+      "src": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/apple/285/ghost_1f47b.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "android-chrome-512x512.png",
+      "src": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/apple/285/ghost_1f47b.png",
       "type": "image/png",
       "sizes": "512x512"
     }
