@@ -55,9 +55,9 @@ function Projects() {
             </Card>
           </Col>
           <Col sm={true} lg={true} className="mt-3">
-            <Card className="card" onClick={() => setOpen3(!open3)}
+            <Card className="card" onClick={() => setOpen5(!open5)}
               aria-controls="example-collapse-text"
-              aria-expanded={open3}>
+              aria-expanded={open5}>
               <div className="content">
                 <div className="content-overlay"></div>
                 <Card.Img variant="top" src="https://live.staticflickr.com/65535/51404539738_7c0af56bc0_b.jpg" style={{
@@ -68,7 +68,7 @@ function Projects() {
                   <h3 className="content-title">Tinder Wrapped</h3>
                 </div>
               </div>
-              <Collapse in={open3}>
+              <Collapse in={open5}>
                 <div>
                   <div style={{ padding: '5%' }}>
                     Spotify Wrapped, but for exposing your Tinder habits.
